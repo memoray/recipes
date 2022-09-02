@@ -1,5 +1,5 @@
 # recipes
 
-![](img/Desktop.jpg)
+<img src="img/Desktop.jpg" width="600">
 
-![](img/Mobile.jpg)
+<img src="img/Mobile.jpg" width="200">
